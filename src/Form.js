@@ -10,14 +10,6 @@ function Input() {
       <div>
         <button onClick={Form}>Add todo</button>
       </div>
-      <div>
-        <h3>Todos</h3>
-        <input type="checkbox"></input>
-        <label for="first"> Learn React</label>
-        <br></br>
-        <input type="checkbox"></input>
-        <label for="second"> Wash the dishes</label>
-      </div>
     </div>
   );
 }
